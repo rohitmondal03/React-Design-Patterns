@@ -15,6 +15,7 @@ export default function Home() {
       <Link to={"/hoc"}>HOC component</Link>
       <Link to={"/render-props"}>Render props component</Link>
       <Link to={"/compound-pattern"}>Compound component</Link>
+      <Link to={"/container-presentational"}>Container/Presentational component</Link>
     </div>
   )
 }

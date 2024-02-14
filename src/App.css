@@ -64,3 +64,16 @@
   padding: 2rem;
   margin-top: 1rem;
 }
+
+.dogs-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.dogs-container img {
+  border-radius: 10px;
+  height: 50vh;
+}
