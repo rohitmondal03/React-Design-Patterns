@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  gap: 1rem;
+  background: white;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.title {
+  cursor: pointer;
+  color: black;
+}
+
+.items-container {
+  background: gray;
+  border-radius: 5px;
+  padding: 2rem;
+  margin-top: 1rem;
+}
