@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import Tabs from '../components/tabs'
+import Tabs from '../components/compound/tabs'
 
 
 export default function CompoundPattern() {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import RenderPropsWrapper from '../components/render-props-wrapper'
+import RenderPropsWrapper from '../components/render-props/render-props-wrapper'
 
 
 export default function RenderProps() {
